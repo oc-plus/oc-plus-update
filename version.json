@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "date_added": "01.08.2026",
-  "log": "Please read <a href=\"https://github.com/oc-plus/oc-plus/blob/main/CHANGELOG.md\" target=\"_blank\">CHANGELOG</a>"
+  "version": "1.1.0",
+  "date_added": "19.08.2026",
+  "log": "<h3>Download OC+ 1.1.0</h3><ul><li><a href=\"https://github.com/oc-plus/oc-plus/releases/download/1.1.0/oc-plus.install.1.1.0.zip\">Installation package</a></li><li>Packages for updating from OC+ 1.0.0, OpenCart 4.1.0.3, OpenCart 4.1.0.4<ul><li>You need to download and install all 3 packages:</li><li><a href=\"https://github.com/oc-plus/oc-plus/releases/download/1.1.0/oc-plus.upgrade-admin.1.1.0.zip\">admin</a></li><li><a href=\"https://github.com/oc-plus/oc-plus/releases/download/1.1.0/oc-plus.upgrade-catalog.1.1.0.zip\">catalog</a></li><li><a href=\"https://github.com/oc-plus/oc-plus/releases/download/1.1.0/oc-plus.upgrade-vendor.1.1.0.zip\">vendor</a></li></ul></li></ul><p><a href=\"https://github.com/oc-plus/oc-plus/blob/main/README.md\" target=\"_blank\">Read the README</a> for installation and update instructions.</p>"
 }
